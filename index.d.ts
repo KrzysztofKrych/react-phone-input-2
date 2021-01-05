@@ -1,4 +1,4 @@
-declare module "react-phone-input-2" {
+declare module "react-phone-input-kk-version" {
   import React from "react";
 
   interface CountryData {
